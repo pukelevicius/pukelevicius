@@ -1,2 +1,2 @@
-# pukelevicius
-Here I upload my little projects
+# Skills portfolio
+Here I upload my little projects that I have done to learn something new! 
